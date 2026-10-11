@@ -9,9 +9,15 @@ ShowToc: true
 <img src="/profile.png" alt="profile" width="50%">
 
 **你覺得這則貼文有什麼問題？**
+
 □語言侮辱和人身攻擊
+
 □暴力傾向
+
 ☑我不喜歡自己出現在文章上
+
 □低俗
+
 □引起不適
+
 □其他問題

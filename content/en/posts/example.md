@@ -9,9 +9,15 @@ ShowToc: true
 <img src="/profile.png" alt="profile" width="50%">
 
 **What do you think is wrong with this post?**
+
 □ Language harassment and personal attacks
+
 □ Violence
+
 ☑ I don't like appearing in my own posts
+
 □ Obscenity
+
 □ Causing discomfort
+
 □ Other issues
